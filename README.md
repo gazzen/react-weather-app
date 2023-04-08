@@ -2,6 +2,9 @@
 
 In the project directory, run the following command in terminal
 
+### Install
+-npm i
+
 ### `npm start`
 
 Runs the app in the development mode.
